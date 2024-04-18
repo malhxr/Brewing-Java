@@ -1,0 +1,849 @@
+<!doctype html>
+<html lang="en-US" class="html-head">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="image/png" href="https://www.fitnessworld.ca/wp-content/themes/fitnessworld/assets/images/favicon.ico">
+  <link rel="stylesheet" href="https://use.typekit.net/nnw0qpo.css">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><!-- This site is optimized with the Yoast SEO plugin v21.4 - https://yoast.com/wordpress/plugins/seo/ -->
+  <title>Fitness World: Explore Our Gym Memberships (Vancouver / Burnaby / Langley, BC)</title>
+  <meta name="description" content="Explore everything Fitness World has to offer! With 500+ classes weekly and state-of-the-art equipment, there are many options to help achieve your goals.">
+  <link rel="canonical" href="https://www.fitnessworld.ca/explore-memberships/">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Fitness World: Explore Our Gym Memberships (Vancouver / Burnaby / Langley, BC)">
+  <meta property="og:description" content="Explore everything Fitness World has to offer! With 500+ classes weekly and state-of-the-art equipment, there are many options to help achieve your goals.">
+  <meta property="og:url" content="https://www.fitnessworld.ca/explore-memberships/">
+  <meta property="og:site_name" content="Fitness World">
+  <meta property="article:modified_time" content="2023-11-27T14:50:22+00:00">
+  <meta property="og:image" content="https://www.fitnessworld.ca/wp-content/uploads/2023/08/meta.jpeg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="540">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta name="twitter:card" content="summary_large_image">
+  <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.fitnessworld.ca/explore-memberships/","url":"https://www.fitnessworld.ca/explore-memberships/","name":"Fitness World: Explore Our Gym Memberships (Vancouver / Burnaby / Langley, BC)","isPartOf":{"@id":"https://www.fitnessworld.ca/#website"},"datePublished":"2021-12-13T19:38:54+00:00","dateModified":"2023-11-27T14:50:22+00:00","description":"Explore everything Fitness World has to offer! With 500+ classes weekly and state-of-the-art equipment, there are many options to help achieve your goals.","breadcrumb":{"@id":"https://www.fitnessworld.ca/explore-memberships/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.fitnessworld.ca/explore-memberships/"]}]},{"@type":"BreadcrumbList","@id":"https://www.fitnessworld.ca/explore-memberships/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.fitnessworld.ca/"},{"@type":"ListItem","position":2,"name":"Explore Memberships"}]},{"@type":"WebSite","@id":"https://www.fitnessworld.ca/#website","url":"https://www.fitnessworld.ca/","name":"Fitness World","description":"The Best Gym In BC, Canada","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.fitnessworld.ca/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script><!-- / Yoast SEO plugin. -->
+  <link rel="dns-prefetch" href="//www.fitnessworld.ca">
+  <link rel="stylesheet" id="wp-block-library-css" href="https://www.fitnessworld.ca/wp-includes/css/dist/block-library/style.min.css?ver=6.4.1" type="text/css" media="all">
+  <style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+  <style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+  <link rel="stylesheet" id="main-styles-css" href="https://www.fitnessworld.ca/wp-content/themes/fitnessworld/assets/css/styles.min.css?ver=6.4.1" type="text/css" media="all">
+  <link rel="stylesheet" id="support-styles-css" href="https://www.fitnessworld.ca/wp-content/themes/fitnessworld/assets/css/support.min.css?ver=6.4.1" type="text/css" media="all">
+  <script type="text/javascript" src="https://www.fitnessworld.ca/wp-includes/js/jquery/jquery.min.js?ver=3.7.1' defer" id="jquery-core-js"></script>
+  <script type="text/javascript" src="https://www.fitnessworld.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' defer" id="jquery-migrate-js"></script>
+  <link rel="alternate" type="application/json+oembed" href="https://www.fitnessworld.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fitnessworld.ca%2Fexplore-memberships%2F">
+  <link rel="alternate" type="text/xml+oembed" href="https://www.fitnessworld.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fitnessworld.ca%2Fexplore-memberships%2F&amp;format=xml"><!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-71150TBX66"></script>
+  <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-71150TBX66');
+    </script><!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MPG7JGN');</script><!-- End Google Tag Manager --> <!-- Start of Async HubSpot -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/2538549.js"></script><!-- End of Async HubSpot Analytics Code --> <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MGZZXVFZ');</script><!-- End Google Tag Manager -->
+ </head>
+ <body class="page-template-default page page-id-192">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MGZZXVFZ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript><!-- End Google Tag Manager (noscript) -->
+  <div id="fullPageMenu" class="full-page-menu hidden">
+   <div class="background-overlay"></div>
+   <div class="full-page-menu__container">
+    <div class="menu-header-menu-container">
+     <ul id="menu-header-menu" class="header-nav mobile-nav">
+      <li id="menu-item-21" class="star menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-21"><a href="#">Memberships</a>
+       <ul class="sub-menu">
+        <li id="menu-item-23743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23743"><a href="https://www.fitnessworld.ca/join/">Join Now</a></li>
+        <li id="menu-item-23741" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-192 current_page_item menu-item-23741"><a href="https://www.fitnessworld.ca/explore-memberships/" aria-current="page">Explore Memberships</a></li>
+        <li id="menu-item-23740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23740"><a href="https://www.fitnessworld.ca/corporate-memberships/">Corporate Memberships</a></li>
+        <li id="menu-item-23742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23742"><a href="https://www.fitnessworld.ca/free-pass/">Free Pass</a></li>
+       </ul></li>
+      <li id="menu-item-25" class="marker menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25"><a href="#">Locations</a>
+       <ul class="sub-menu">
+        <li id="menu-item-23744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23744"><a href="https://www.fitnessworld.ca/locations/">Club Finder</a></li>
+        <li id="menu-item-26114" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26114"><a href="https://www.fitnessworld.ca/locations/cambie/">Cambie (12th &amp; Cambie)</a></li>
+        <li id="menu-item-26115" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26115"><a href="https://www.fitnessworld.ca/locations/downtown/">Downtown (Howe &amp; Davie)</a></li>
+        <li id="menu-item-26116" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26116"><a href="https://www.fitnessworld.ca/locations/georgia/">Georgia &amp; Bute</a></li>
+        <li id="menu-item-26117" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26117"><a href="https://www.fitnessworld.ca/locations/kingsway/">Kingsway</a></li>
+        <li id="menu-item-26118" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26118"><a href="https://www.fitnessworld.ca/locations/kitsilano/">Kitsilano</a></li>
+        <li id="menu-item-26119" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26119"><a href="https://www.fitnessworld.ca/locations/langley/">Langley</a></li>
+        <li id="menu-item-26120" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26120"><a href="https://www.fitnessworld.ca/locations/lonsdale/">Lonsdale</a></li>
+        <li id="menu-item-26121" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26121"><a href="https://www.fitnessworld.ca/locations/lougheed/">Lougheed</a></li>
+        <li id="menu-item-26122" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26122"><a href="https://www.fitnessworld.ca/locations/marine-gateway/">Marine Gateway (Cambie &amp; Marine)</a></li>
+        <li id="menu-item-26123" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26123"><a href="https://www.fitnessworld.ca/locations/nanaimo/">Nanaimo</a></li>
+        <li id="menu-item-26124" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26124"><a href="https://www.fitnessworld.ca/locations/richmond/">Richmond Oval Village</a></li>
+        <li id="menu-item-26125" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26125"><a href="https://www.fitnessworld.ca/locations/semiahmoo/">Semiahmoo</a></li>
+        <li id="menu-item-26126" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26126"><a href="https://www.fitnessworld.ca/locations/south-surrey/">South Surrey Signature</a></li>
+        <li id="menu-item-26127" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26127"><a href="https://www.fitnessworld.ca/locations/surrey/">Surrey (Whalley)</a></li>
+        <li id="menu-item-26128" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26128"><a href="https://www.fitnessworld.ca/locations/suter-brook/">Suter Brook</a></li>
+        <li id="menu-item-26129" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26129"><a href="https://www.fitnessworld.ca/locations/victoria/">Victoria</a></li>
+        <li id="menu-item-26495" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26495"><a href="https://www.fitnessworld.ca/locations/train-by-fw/">Train By FW</a></li>
+       </ul></li>
+      <li id="menu-item-28" class="fitnessworld menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28"><a href="#">Experience FW</a>
+       <ul class="sub-menu">
+        <li id="menu-item-23745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23745"><a href="https://www.fitnessworld.ca/classes/">Fitness Classes</a>
+         <ul class="sub-menu">
+          <li id="menu-item-27260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27260"><a href="https://www.fitnessworld.ca/classes/">All Fitness Classes</a></li>
+          <li id="menu-item-27252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27252"><a href="https://www.fitnessworld.ca/classes/bollyx-classes/">BollyX Class</a></li>
+          <li id="menu-item-27253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27253"><a href="https://www.fitnessworld.ca/classes/barre-class/">Barre Class</a></li>
+          <li id="menu-item-27254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27254"><a href="https://www.fitnessworld.ca/classes/cardio-training/">Cardio Class</a></li>
+          <li id="menu-item-27255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27255"><a href="https://www.fitnessworld.ca/classes/kickboxing/">Kickboxing Class</a></li>
+          <li id="menu-item-27256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27256"><a href="https://www.fitnessworld.ca/classes/cycling-studio/">Cycling Class</a></li>
+          <li id="menu-item-27257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27257"><a href="https://www.fitnessworld.ca/classes/pilates-fitness/">Pilates Class</a></li>
+          <li id="menu-item-27124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27124"><a href="https://www.fitnessworld.ca/classes/zumba-fitness/">Zumba Fitness Class</a></li>
+          <li id="menu-item-27259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27259"><a href="https://www.fitnessworld.ca/classes/yoga-fitness/">Yoga Fitness Class</a></li>
+          <li id="menu-item-27258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27258"><a href="https://www.fitnessworld.ca/classes/strength-training/">Strength Training Fitness Class</a></li>
+         </ul></li>
+        <li id="menu-item-23751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23751"><a href="https://www.fitnessworld.ca/the-worx/">THE WORX</a></li>
+        <li id="menu-item-23749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23749"><a href="https://www.fitnessworld.ca/personal-training/">Personal Training</a></li>
+        <li id="menu-item-23748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23748"><a href="https://www.fitnessworld.ca/online-fitness/">Online Fitness</a></li>
+        <li id="menu-item-23750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23750"><a href="https://www.fitnessworld.ca/recovery/">Recovery</a></li>
+        <li id="menu-item-23747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23747"><a href="https://www.fitnessworld.ca/nutrition/">Nutrition</a></li>
+        <li id="menu-item-27900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27900"><a href="https://www.fitnessworld.ca/rewards/">Rewards</a></li>
+       </ul></li>
+     </ul>
+    </div>
+    <div class="menu-mobile-sub-header-menu-container">
+     <ul id="menu-mobile-sub-header-menu" class="header-sub-nav mobile-sub-nav">
+      <li id="menu-item-188" class="button button--submit menu-item menu-item-type-post_type menu-item-object-page menu-item-188"><a href="https://www.fitnessworld.ca/join/">Join Now</a></li>
+      <li id="menu-item-842" class="button button--blue menu-item menu-item-type-post_type menu-item-object-page menu-item-842"><a href="https://www.fitnessworld.ca/free-pass/">Free 3-day pass</a></li>
+      <li id="menu-item-23980" class="lock menu-item menu-item-type-custom menu-item-object-custom menu-item-23980"><a href="/member/login/">Member Login</a></li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <header id="header" class="site-header anim-nav" data-position="0">
+   <div class="header-menu size-outer">
+    <a href="/" class="logo-container"> <img src="https://www.fitnessworld.ca/wp-content/uploads/2021/11/logo_fitness-world.svg" alt="Fitness World Canada Logo"> </a>
+    <nav>
+     <ul class="header-nav">
+      <li class="menu-membership header-nav-menu menu-item-has-children"><a class="header-nav-title"><i class="icon-star nav-icon"></i> Memberships <i class="icon-down-dir"></i></a>
+       <div class="menu-memberships-container">
+        <ul id="menu-memberships" class="sub-menu">
+         <li id="menu-item-820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-820"><a href="https://www.fitnessworld.ca/join/">Join Now</a></li>
+         <li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-192 current_page_item menu-item-204"><a href="https://www.fitnessworld.ca/explore-memberships/" aria-current="page">Explore Memberships</a></li>
+         <li id="menu-item-821" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-821"><a href="https://www.fitnessworld.ca/corporate-memberships/">Corporate Memberships</a></li>
+         <li id="menu-item-822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822"><a href="https://www.fitnessworld.ca/free-pass/">Free Pass</a></li>
+        </ul>
+       </div></li>
+      <li class="menu-locations header-nav-menu menu-item-has-children"><a class="header-nav-title"><i class="icon-pin nav-icon"></i> Locations <i class="icon-down-dir"></i></a>
+       <div class="menu-locations-container">
+        <ul id="menu-locations" class="sub-menu">
+         <li id="menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-819"><a href="https://www.fitnessworld.ca/locations/">Club Finder</a></li>
+         <li id="menu-item-26098" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26098"><a href="https://www.fitnessworld.ca/locations/cambie/">Cambie (12th &amp; Cambie)</a></li>
+         <li id="menu-item-26099" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26099"><a href="https://www.fitnessworld.ca/locations/downtown/">Downtown (Howe &amp; Davie)</a></li>
+         <li id="menu-item-26100" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26100"><a href="https://www.fitnessworld.ca/locations/georgia/">Georgia &amp; Bute</a></li>
+         <li id="menu-item-26101" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26101"><a href="https://www.fitnessworld.ca/locations/kingsway/">Kingsway</a></li>
+         <li id="menu-item-26102" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26102"><a href="https://www.fitnessworld.ca/locations/kitsilano/">Kitsilano</a></li>
+         <li id="menu-item-26103" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26103"><a href="https://www.fitnessworld.ca/locations/langley/">Langley</a></li>
+         <li id="menu-item-26104" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26104"><a href="https://www.fitnessworld.ca/locations/lonsdale/">Lonsdale</a></li>
+         <li id="menu-item-26105" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26105"><a href="https://www.fitnessworld.ca/locations/lougheed/">Lougheed</a></li>
+         <li id="menu-item-26106" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26106"><a href="https://www.fitnessworld.ca/locations/marine-gateway/">Marine Gateway (Cambie &amp; Marine)</a></li>
+         <li id="menu-item-26107" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26107"><a href="https://www.fitnessworld.ca/locations/nanaimo/">Nanaimo</a></li>
+         <li id="menu-item-26108" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26108"><a href="https://www.fitnessworld.ca/locations/richmond/">Richmond Oval Village</a></li>
+         <li id="menu-item-26109" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26109"><a href="https://www.fitnessworld.ca/locations/semiahmoo/">Semiahmoo</a></li>
+         <li id="menu-item-26110" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26110"><a href="https://www.fitnessworld.ca/locations/south-surrey/">South Surrey Signature</a></li>
+         <li id="menu-item-26111" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26111"><a href="https://www.fitnessworld.ca/locations/surrey/">Surrey (Whalley)</a></li>
+         <li id="menu-item-26112" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26112"><a href="https://www.fitnessworld.ca/locations/suter-brook/">Suter Brook</a></li>
+         <li id="menu-item-26113" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26113"><a href="https://www.fitnessworld.ca/locations/victoria/">Victoria</a></li>
+         <li id="menu-item-26493" class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26493"><a href="https://www.fitnessworld.ca/locations/train-by-fw/">Train By FW</a></li>
+        </ul>
+       </div></li>
+      <li class="menu-experience header-nav-menu menu-item-has-children"><a class="header-nav-title"><i class="icon-icon_fw nav-icon"></i> Experience FW <i class="icon-down-dir"></i></a>
+       <div class="menu-experience-fw-container">
+        <ul id="menu-experience-fw" class="sub-menu">
+         <li id="menu-item-823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-823"><a href="https://www.fitnessworld.ca/classes/">Fitness Classes</a>
+          <ul class="sub-menu">
+           <li id="menu-item-27261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27261"><a href="https://www.fitnessworld.ca/classes/">All Fitness Classes</a></li>
+           <li id="menu-item-27244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27244"><a href="https://www.fitnessworld.ca/classes/bollyx-classes/">BollyX Class</a></li>
+           <li id="menu-item-27243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27243"><a href="https://www.fitnessworld.ca/classes/barre-class/">Barre Class</a></li>
+           <li id="menu-item-27245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27245"><a href="https://www.fitnessworld.ca/classes/cardio-training/">Cardio Class</a></li>
+           <li id="menu-item-27247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27247"><a href="https://www.fitnessworld.ca/classes/kickboxing/">Kickboxing Class</a></li>
+           <li id="menu-item-27246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27246"><a href="https://www.fitnessworld.ca/classes/cycling-studio/">Cycling Class</a></li>
+           <li id="menu-item-27248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27248"><a href="https://www.fitnessworld.ca/classes/pilates-fitness/">Pilates Class</a></li>
+           <li id="menu-item-27249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27249"><a href="https://www.fitnessworld.ca/classes/zumba-fitness/">Zumba Fitness Class</a></li>
+           <li id="menu-item-27251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27251"><a href="https://www.fitnessworld.ca/classes/yoga-fitness/">Yoga Fitness Class</a></li>
+           <li id="menu-item-27250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27250"><a href="https://www.fitnessworld.ca/classes/strength-training/">Strength Training Fitness Class</a></li>
+          </ul></li>
+         <li id="menu-item-828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-828"><a href="https://www.fitnessworld.ca/the-worx/">THE WORX</a></li>
+         <li id="menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://www.fitnessworld.ca/personal-training/">Personal Training</a></li>
+         <li id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a href="https://www.fitnessworld.ca/online-fitness/">Online Fitness</a></li>
+         <li id="menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="https://www.fitnessworld.ca/recovery/">Recovery</a></li>
+         <li id="menu-item-825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-825"><a href="https://www.fitnessworld.ca/nutrition/">Nutrition</a></li>
+         <li id="menu-item-27901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27901"><a href="https://www.fitnessworld.ca/rewards/">Rewards</a></li>
+        </ul>
+       </div></li>
+     </ul>
+    </nav>
+    <div class="header-end">
+     <div class="menu-sub-header-menu-container">
+      <ul id="menu-sub-header-menu" class="header-sub-nav">
+       <li id="menu-item-43" class="lock menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="/member/login/">Member Login</a></li>
+       <li id="menu-item-158" class="button menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="https://www.fitnessworld.ca/join/">Join Now</a></li>
+      </ul>
+     </div>
+     <div id="mobile-menu-icon" class="menu-icon-container">
+      <div class="full-page-menu-icon">
+       <span></span> <span></span> <span></span> <span></span>
+      </div>
+     </div>
+    </div>
+   </div>
+  </header>
+  <main class="page-content max-width-container">
+   <section class="page-banner size-max subpage layout--left">
+    <div class="container">
+     <div class="image-container image-container-absolute">
+      <picture class="rellax" data-rellax-speed="-6">
+       <source media="(max-width: 500px)" srcset="https://www.fitnessworld.ca/wp-content/uploads/2023/09/FW-Website-Headers-Mobile.jpg">
+       <img class="img-center" src="https://www.fitnessworld.ca/wp-content/uploads/2023/09/FW-Website-Header-1.jpg" alt="girl smiling holding a kettlebell">
+      </picture>
+     </div>
+     <div class="content-container size-inner">
+      <div class="inner-container">
+       <h5 class="h4 sub-title">Explore Memberships</h5>
+       <h1>MEMBERSHIPS STARTING AT<br>
+         $9.99 BI-WEEKLY! <br></h1>
+       <div class="button-container">
+        <a href="/join/" class="button no-arrow  button--lime">Join Now</a> <a href="/free-pass" class="button no-arrow  button--black">FREE PASS</a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="section page-template-club-benefits   anim-scroll-trigger" data-anim="fade-slide">
+    <div class="container ">
+     <div class="content-container size-inner">
+      <div class="inner-container">
+       <div class="section_header anim-scroll-trigger" data-anim="fade-slide">
+        <h2 style="text-align: center;"><strong>Explore Gym Membership Options at Fitness World</strong></h2>
+        <p style="text-align: center;"><span class="OYPEnA text-decoration-none text-strikethrough-none">Find the membership best-suited to your fitness goals, whether you’re looking for convenient locations near you, fun fitness classes, high-tech recovery, and more!</span></p>
+       </div>
+       <div class="club-container" data-anim="fade-slide">
+        <div class="club-option__benefits anim-scroll-trigger" data-anim="fade-slide">
+         <div class="image-container" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://www.fitnessworld.ca/wp-content/uploads/2023/09/fw_web_club_move.jpg)">
+          <div class="image_overlay-text">
+           <h3>MOVE: $9.99 <br>
+             BI-WEEKLY</h3>
+          </div>
+         </div>
+         <ul class="list-item-with-icon">
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>Access to 1 Gym Location</span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>High Speed Wifi</span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>Smartphone App</span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>Complimentary Goal Session</span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>Online Nutrition Support</span></li>
+         </ul>
+        </div>
+        <div class="club-option__benefits anim-scroll-trigger" data-anim="fade-slide">
+         <div class="image-container" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://www.fitnessworld.ca/wp-content/uploads/2023/09/fw_web_club_fit.jpg)">
+          <div class="image_overlay-text">
+           <h3>FIT: <br>
+            $16.99 <br>
+             BI-WEEKLY</h3>
+          </div>
+         </div>
+         <ul class="list-item-with-icon">
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>Access to 15 Gym Locations</span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>All MOVE Membership Benefits</span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>Access to all recovery tools including Hydromassage, Normatec Legs, and more!</span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>Unlimited Access to 500+ Fitness Classes Weekly, and 24/7 on-demand online fitness</span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>Unlimited access to tanning</span></li>
+         </ul>
+        </div>
+        <div class="club-option__benefits anim-scroll-trigger" data-anim="fade-slide">
+         <div class="image-container" style="background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(https://www.fitnessworld.ca/wp-content/uploads/2023/09/fw_web_club_goal.jpg)">
+          <div class="image_overlay-text">
+           <h3>GOAL: <br>
+            $21.99 <br>
+             BI-WEEKLY</h3>
+          </div>
+         </div>
+         <ul class="list-item-with-icon">
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>Access to 15 Gym Locations</span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>All MOVE Membership Benefits</span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>All FIT Membership Benefits</span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>Plus, guest privileges - bring a buddy to every workout</span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>Unlimited Small Group Training </span></li>
+          <li class="club-option__amenities anim-scroll-trigger" data-anim="fade-slide-right"><span>Unlimited Childminding</span></li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <div class="footnote anim-scroll-trigger" data-anim="fade-slide">
+       <hr>
+       <div class="notice_text">
+        <p>Move memberships start at $9.99 bi-weekly for a 12-month term. Month-to-month options available. Subject to Annual Enhancement Fee and Last Month’s Dues upon join. Taxes extra. Prices may vary depending on location. See local club for details.</p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="section grid-image-layout   anim-scroll-trigger" data-anim="fade-slide">
+    <div class="container">
+     <div class="content-container size-inner">
+      <div class="inner-container">
+       <div class="section_header anim-scroll-trigger" data-anim="fade-slide">
+        <h3 style="text-align: center;"><strong>Your commitment, your way.</strong></h3>
+        <p style="text-align: center;"><span class="OYPEnA text-decoration-none text-strikethrough-none">We know every one’s fitness journey is unique, so our memberships are made to fit your lifestyle and your goals, with a 12-month term option to keep you accountable, or a more flexible month-to-month membership.</span></p>
+       </div>
+       <div class="flex-container centered-flex-container">
+        <div class="flex-item">
+         <div class="image_container" style="background:url(https://www.fitnessworld.ca/wp-content/uploads/2023/09/fw_web_grid_term.jpg)">
+         </div>
+         <div class="caption">
+          Save on your bi-weekly dues when you commit to a 12-month membership.
+         </div>
+        </div>
+        <div class="flex-item">
+         <div class="image_container" style="background:url(https://www.fitnessworld.ca/wp-content/uploads/2023/09/fw_web_grid_mtm.jpg)">
+         </div>
+         <div class="caption">
+          Pay as you go, and stop when you want with our Month-to-Month option.
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="section one-column membership_option_header  anim-scroll-trigger" data-anim="fade-slide">
+    <div class="size-inner">
+     <div class="content-container text-center">
+      <h2 style="text-align: center;"><strong>Ready to join?</strong></h2>
+      <div class="button-container anim-scroll-trigger" data-anim="fade-slide">
+       <a href="https://www.fitnessworld.ca/join/" class="button button--light-green"> GET STARTED TODAY </a>
+      </div>
+     </div>
+    </div>
+   </section>
+   <div class="size-inner">
+    <div class="divider-wrap" data-alignment="left">
+     <!-- Full width divider -->
+     <div style="background-color: #000000 ;margin-top: 50px;height: 1px; margin-bottom: 50px;" data-width="100%" class="divider-border"></div>
+    </div>
+   </div>
+   <section class="section one-column   anim-scroll-trigger" data-anim="fade-slide">
+    <div class="size-inner">
+     <div class="content-container text-center">
+      <h3 style="text-align: center;"><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">We have 16 gym locations in British Columbia.</span> </strong></h3>
+      <p style="text-align: center;"><span class="OYPEnA text-decoration-none text-strikethrough-none">Get a <a href="https://www.fitnessworld.ca/free-pass/">3-day pass</a> to try us for free!</span></p>
+     </div>
+    </div>
+   </section>
+   <div class="layout-features">
+    <div class="layout-feature layout-feature--location">
+     <section class="section locations-map">
+      <div class="container size-inner">
+       <div class="columns col-2">
+        <div class="col">
+         <h3><b>Find your club!</b> Select your preferred location or search for nearby clubs.</h3>
+         <div class="card no-shadow">
+          <div class="form">
+           <div class="form-group">
+            <select name="location" id="location"> <option value="all">All</option> </select>
+           </div>
+           <div class="form-group">
+            <input id="address" name="address" type="text" placeholder="Search by city or postal code">
+           </div>
+          </div>
+          <hr>
+          <div class="join__locations">
+           <template>
+            <div class="join__location card">
+             <div class="content-container--body">
+              <h4 class="join__location__title">Richmond</h4>
+              <p class="join__location__address">#305 - 7468 Lansdowne Road <br>
+               Richmond BC</p>
+             </div><a href="/locations/" class="button button--submit">Learn More</a>
+            </div>
+           </template>
+          </div>
+         </div>
+        </div>
+        <div class="col">
+         <div id="locations-map" class="join__map"></div>
+        </div>
+       </div>
+      </div>
+     </section>
+    </div>
+   </div>
+   <div class="join__loading-screen loading-screen">
+    <div class="background-overlay"></div>
+    <div class="loading-container">
+     <img src="https://www.fitnessworld.ca/wp-content/themes/fitnessworld/assets/images/loading.svg" alt="">
+    </div>
+   </div>
+   <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v2.6.0/mapbox-gl.js"></script>
+   <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v2.6.0/mapbox-gl.css" rel="stylesheet">
+   <section class="section two-column layout-block-container  anim-scroll-trigger" data-anim="fade-slide">
+    <div class="size-inner">
+     <div class="section_header anim-scroll-trigger" data-anim="fade-slide">
+     </div>
+     <div class="columns col-2">
+      <div class="col col--text">
+       <div class="">
+        <div class="content-container">
+         <div class="content-container--header type--default">
+          <h4><strong>Get the Signature Gym Experience.</strong></h4>
+         </div>
+         <div class="content-container--body">
+          <p><span class="OYPEnA text-decoration-none text-strikethrough-none">South Surrey Signature Fitness World located at the Shops at Morgan Crossing boasts 40,000 square feet, 12 Lifting Platforms, tons of workout space, and a dedicated recovery zone that offers multiple massage chair options, hot/cold loungers, and our newest offering – Infrared Light Therapy. Signature memberships start at <strong>$30.99 bi-weekly</strong>.</span></p>
+         </div>
+         <div class="button-container anim-scroll-trigger" data-anim="fade-slide">
+          <a href="https://www.fitnessworld.ca/locations/south-surrey/" class="button button--default"> LEARN MORE </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="col col--image">
+       <div class="image-container">
+        <img class="anim-lazy" src="" data-src="https://www.fitnessworld.ca/wp-content/uploads/2023/09/FW-Website-2-Column-SSS.gif" alt="">
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <div class="size-inner">
+    <div class="divider-wrap" data-alignment="left">
+     <!-- Full width divider -->
+     <div style="background-color: #000000 ;margin-top: 50px;height: 1px; margin-bottom: 50px;" data-width="100%" class="divider-border"></div>
+    </div>
+   </div>
+   <section class="section one-column   anim-scroll-trigger" data-anim="fade-slide">
+    <div class="size-inner">
+     <div class="content-container text-center">
+      <h3 style="text-align: center;"><strong>Frequently Asked Questions:</strong></h3>
+     </div>
+    </div>
+   </section>
+   <section class="section text-with-icon-section ">
+    <div class="container ">
+     <div class="content-container size-inner">
+      <div class="inner-container">
+       <div class="text-icon-container text-icon-container--flexbox  anim-scroll-trigger" data-anim="fade-slide">
+        <img src="https://www.fitnessworld.ca/wp-content/uploads/2023/08/fw_web_icon_signup.jpg" alt="">
+        <div>
+         <h5><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">What are the fees upon sign up?</span></strong></h5>
+         <p><span class="OYPEnA text-decoration-none text-strikethrough-none">At the time of enrollment, you’ll be charged an enrollment fee, plus a pro-rated bi-weekly dues amount based on your membership type. If you choose 12-month term, you’ll also pay your last month’s dues up front.</span></p>
+        </div>
+       </div>
+       <div class="text-icon-container text-icon-container--flexbox  anim-scroll-trigger" data-anim="fade-slide">
+        <img src="https://www.fitnessworld.ca/wp-content/uploads/2023/08/fw_web_icon_fees.jpg" alt="">
+        <div>
+         <h5><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">Are there any other fees?</span></strong></h5>
+         <p><span class="OYPEnA text-decoration-none text-strikethrough-none">All members are billed an industry-standard Annual Enhancement Fee of $49.99 + tax 5 weeks after joining. The AEF funds facility upgrades, services and programs for our members.</span></p>
+        </div>
+       </div>
+       <div class="text-icon-container text-icon-container--flexbox  anim-scroll-trigger" data-anim="fade-slide">
+        <img src="https://www.fitnessworld.ca/wp-content/uploads/2023/08/fw_web_icon_cancel.jpg" alt="">
+        <div>
+         <h5><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">Can I cancel my membership?</span></strong></h5>
+         <p><span class="OYPEnA text-decoration-none text-strikethrough-none">We hope you won’t, but understand sometimes circumstances change. Month-to-month memberships may be cancelled at any time with 30 days notice. 12-Month Term memberships can be cancelled with proof of relocation or illness.</span></p>
+        </div>
+       </div>
+       <div class="text-icon-container text-icon-container--flexbox  anim-scroll-trigger" data-anim="fade-slide">
+        <img src="https://www.fitnessworld.ca/wp-content/uploads/2023/08/fw_web_icon_support.jpg" alt="">
+        <div>
+         <h5><strong><span class="OYPEnA text-decoration-none text-strikethrough-none">I’m a gym newbie, will you show me around?</span></strong></h5>
+         <p><span class="OYPEnA text-decoration-none text-strikethrough-none">We are so excited to help you on your fitness journey. Make sure to ask about a complimentary Goal Session with one of our Personal Trainers who can review your goals, show you around the gym, and give you a workout plan!</span></p>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="section one-column   anim-scroll-trigger" data-anim="fade-slide">
+    <div class="size-inner">
+     <div class="content-container text-left">
+      <h3><strong>Your Fitness, Your Way.&nbsp;</strong></h3>
+      <p>No matter if you’re looking for a traditional gym membership like our MOVE membership, looking to join <a href="https://fitnessworld.ca/classes/">fitness classes</a> and experience unique recovery amenities with our FIT membership, or if you’re looking to upgrade to get all the extra perks with our GOAL membership, Fitness World has an option that fits your lifestyle and your fitness goals.</p>
+      <p>All Fitness World members receive access to our <a href="https://fitnessworld.ca/online-fitness/">FW Online</a> mobile app, as well as a complimentary one-on-one Goal session with a <a href="https://fitnessworld.ca/personal-training/">personal trainer</a> to kickstart your fitness journey. Boost your membership and experience unlimited <a href="https://fitnessworld.ca/recovery/">Hydromassage and tanning</a>, as well as unlimited guest privileges, because bringing your workout BFF is a no brainer!</p>
+      <p>Have questions? Review our <a href="https://fitnessworld.ca/faqs/">FAQs</a> or <a href="https://fitnessworld.ca/contact/">contact us</a> today! Our club staff is ready and willing to answer your questions and guide you through your new home for fitness.</p>
+     </div>
+    </div>
+   </section><!-- Explore Memberships Option -->
+   <section class="section two-column layout-full-bar membership-options-layout membership-options-layout anim-scroll-trigger" data-anim="fade-slide">
+    <div class="background-bar background--green"></div>
+    <div class="size-inner">
+     <div class="columns col- col-lg-spacing">
+      <div class="col">
+       <div class="card no-padding no-shadow membership-option">
+        <div class="card__header">
+         <h3 class="card__title">MOVE</h3>
+        </div>
+        <div class="card__body">
+         <div class="card__row">
+          <p style="text-align: center;">Starting at</p>
+          <h1 style="text-align: center;"><strong>$9.99</strong></h1>
+          <p style="text-align: center;"><strong>Bi-Weekly</strong><br>
+            Enrollment Fee: $1<br>
+            Was: $99.99 | OFFER ENDS SOON</p>
+         </div>
+        </div>
+        <div class="card__footer">
+         <ul class="list-item-with-icon">
+          <li class="membership-option__benefits"><span>High speed wifi</span></li>
+          <li class="membership-option__benefits"><span>Smartphone app</span></li>
+          <li class="membership-option__benefits"><span>Goal session</span></li>
+          <li class="membership-option__benefits"><span>Online Nutrition</span></li>
+          <li class="membership-option__benefits"><span>Single Club Access</span></li>
+         </ul>
+         <div class="button-container">
+          <a href="/join" class="button button--default" target="">Join Now</a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="col">
+       <div class="card no-padding no-shadow membership-option">
+        <div class="card__header">
+         <h3 class="card__title">FIT</h3>
+        </div>
+        <div class="card__body">
+         <div class="card__row">
+          <p style="text-align: center;">Starting at</p>
+          <h1 style="text-align: center;"><strong>$16.99</strong></h1>
+          <p style="text-align: center;"><strong>Bi-Weekly</strong><br>
+            Enrollment Fee: $1<br>
+            Was: $99.99 | OFFER ENDS SOON</p>
+         </div>
+        </div>
+        <div class="card__footer">
+         <ul class="list-item-with-icon">
+          <li class="membership-option__benefits"><span>High Speed Wifi</span></li>
+          <li class="membership-option__benefits"><span>Smartphone app</span></li>
+          <li class="membership-option__benefits"><span>Goal session</span></li>
+          <li class="membership-option__benefits"><span>Online Nutrition</span></li>
+          <li class="membership-option__benefits"><span>Access to 15 Clubs</span></li>
+          <li class="membership-option__benefits"><span>Group Studio Classes</span></li>
+          <li class="membership-option__benefits"><span>Hydromassage &amp; Tanning</span></li>
+         </ul>
+         <div class="button-container">
+          <a href="/join" class="button button--default" target="">Join Now</a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="col">
+       <div class="card no-padding no-shadow membership-option">
+        <div class="card__header">
+         <h3 class="card__title">GOAL</h3>
+        </div>
+        <div class="card__body">
+         <div class="card__row">
+          <p style="text-align: center;">Starting at</p>
+          <h1 style="text-align: center;"><strong>$21.99</strong></h1>
+          <p style="text-align: center;"><strong>Bi-Weekly</strong><br>
+            Enrollment Fee: $1<br>
+            Was: $99.99 | OFFER ENDS SOON</p>
+         </div>
+        </div>
+        <div class="card__footer">
+         <ul class="list-item-with-icon">
+          <li class="membership-option__benefits"><span>High Speed Wifi</span></li>
+          <li class="membership-option__benefits"><span>Smartphone App</span></li>
+          <li class="membership-option__benefits"><span>Goal Session</span></li>
+          <li class="membership-option__benefits"><span>Online Nutrition</span></li>
+          <li class="membership-option__benefits"><span>Access to 15 Clubs</span></li>
+          <li class="membership-option__benefits"><span>Group Studio Classes</span></li>
+          <li class="membership-option__benefits"><span>THE WORX Small Group Training</span></li>
+          <li class="membership-option__benefits"><span>Hydromassage &amp; Tanning</span></li>
+          <li class="membership-option__benefits"><span>Unlimited Guest Privileges</span></li>
+          <li class="membership-option__benefits"><span>Unlimited Child Minding</span></li>
+         </ul>
+         <div class="button-container">
+          <a href="/join" class="button button--default" target="">Join Now</a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="size-inner">
+    </div>
+   </section>
+   <section class="section one-column   anim-scroll-trigger" data-anim="fade-slide">
+    <div class="size-inner">
+     <div class="content-container text-center">
+      <h3 style="text-align: center;"><strong>Learn about our latest enrollment offer</strong></h3>
+      <div class="button-container anim-scroll-trigger" data-anim="fade-slide">
+       <a href="https://www.fitnessworld.ca/promo/" class="button button--purple"> START SAVING </a>
+      </div>
+     </div>
+    </div>
+   </section>
+   <div class="">
+    <div class="divider-wrap" data-alignment="left">
+     <!-- no line divider -->
+     <div style="height: 200; " class="divider"></div>
+    </div>
+   </div>
+   <section class="section one-column   anim-scroll-trigger" data-anim="fade-slide">
+    <div class="size-inner">
+     <div class="content-container text-left">
+     </div>
+    </div>
+   </section>
+   <div id="exit-popup" class="popup popup--info">
+    <div class="popup-background-overlay"></div>
+    <div class="popup-wrapper">
+     <div class="button close-button close-popup"></div>
+     <div class="popup-container">
+      <div class="header-container">
+       <img src="https://www.fitnessworld.ca/wp-content/uploads/2023/11/fw_flash_sale_nov_23_27_30_1170x430.png" alt="$1 Enrollment BC Canada Fitness World">
+       <h3 class="title">Limited Time Offer Available!</h3>
+      </div>
+      <div class="body-container">
+       <div class="content-container">
+        <p class="description">Enroll for just $1 now through November 30 only! Memberships start at $9.99 bi-weekly.<br>
+          See how you can do Your Fitness, Your Way!</p>
+       </div>
+      </div>
+      <div class="footer-container">
+       <div class="button-container alternate">
+        <a href="/promo/" class="button" target="_blank">GET THE OFFER</a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <footer class="footer">
+    <div class="footer-wrapper">
+     <div class="outer-container light-fonts">
+      <div class="footer--header">
+       <div class="columns col-2 size-inner">
+        <div class="col footer-logo">
+         <div class="footer-logo-container">
+          <img class="hide--medium" src="https://www.fitnessworld.ca/wp-content/uploads/2021/11/logo_fitness-world.svg" alt="Fitness World Canada Logo"> <img class="show--medium" src="https://www.fitnessworld.ca/wp-content/uploads/2021/12/icon_FW.svg" alt="fitness world icon">
+         </div>
+        </div>
+        <div class="col footer-buttons">
+         <div class="button-container alternate">
+          <a href="/join" class="button">Join Now</a> <a href="/free-pass" class="button">Free 3-day Pass</a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="footer--body size-inner">
+       <div class="footer__menu-container hide--tablet-portrait">
+        <div class="columns col-4">
+         <div class="col membership-menu">
+          <h6 class="col-title">Memberships</h6>
+          <div class="menu-memberships-container">
+           <ul id="menu-memberships-1" class="menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-820"><a href="https://www.fitnessworld.ca/join/">Join Now</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-192 current_page_item menu-item-204"><a href="https://www.fitnessworld.ca/explore-memberships/" aria-current="page">Explore Memberships</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-821"><a href="https://www.fitnessworld.ca/corporate-memberships/">Corporate Memberships</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822"><a href="https://www.fitnessworld.ca/free-pass/">Free Pass</a></li>
+           </ul>
+          </div>
+         </div>
+         <div class="col locations-menu">
+          <h6 class="col-title">Locations</h6>
+          <div class="menu-locations-container">
+           <ul id="menu-locations-1" class="menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-819"><a href="https://www.fitnessworld.ca/locations/">Club Finder</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26098"><a href="https://www.fitnessworld.ca/locations/cambie/">Cambie (12th &amp; Cambie)</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26099"><a href="https://www.fitnessworld.ca/locations/downtown/">Downtown (Howe &amp; Davie)</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26100"><a href="https://www.fitnessworld.ca/locations/georgia/">Georgia &amp; Bute</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26101"><a href="https://www.fitnessworld.ca/locations/kingsway/">Kingsway</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26102"><a href="https://www.fitnessworld.ca/locations/kitsilano/">Kitsilano</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26103"><a href="https://www.fitnessworld.ca/locations/langley/">Langley</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26104"><a href="https://www.fitnessworld.ca/locations/lonsdale/">Lonsdale</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26105"><a href="https://www.fitnessworld.ca/locations/lougheed/">Lougheed</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26106"><a href="https://www.fitnessworld.ca/locations/marine-gateway/">Marine Gateway (Cambie &amp; Marine)</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26107"><a href="https://www.fitnessworld.ca/locations/nanaimo/">Nanaimo</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26108"><a href="https://www.fitnessworld.ca/locations/richmond/">Richmond Oval Village</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26109"><a href="https://www.fitnessworld.ca/locations/semiahmoo/">Semiahmoo</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26110"><a href="https://www.fitnessworld.ca/locations/south-surrey/">South Surrey Signature</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26111"><a href="https://www.fitnessworld.ca/locations/surrey/">Surrey (Whalley)</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26112"><a href="https://www.fitnessworld.ca/locations/suter-brook/">Suter Brook</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26113"><a href="https://www.fitnessworld.ca/locations/victoria/">Victoria</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26493"><a href="https://www.fitnessworld.ca/locations/train-by-fw/">Train By FW</a></li>
+           </ul>
+          </div>
+         </div>
+         <div class="col experience-menu">
+          <h6 class="col-title">Experience FW</h6>
+          <div class="menu-experience-fw-container">
+           <ul id="menu-experience-fw-1" class="menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-823"><a href="https://www.fitnessworld.ca/classes/">Fitness Classes</a>
+             <ul class="sub-menu">
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27261"><a href="https://www.fitnessworld.ca/classes/">All Fitness Classes</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27244"><a href="https://www.fitnessworld.ca/classes/bollyx-classes/">BollyX Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27243"><a href="https://www.fitnessworld.ca/classes/barre-class/">Barre Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27245"><a href="https://www.fitnessworld.ca/classes/cardio-training/">Cardio Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27247"><a href="https://www.fitnessworld.ca/classes/kickboxing/">Kickboxing Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27246"><a href="https://www.fitnessworld.ca/classes/cycling-studio/">Cycling Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27248"><a href="https://www.fitnessworld.ca/classes/pilates-fitness/">Pilates Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27249"><a href="https://www.fitnessworld.ca/classes/zumba-fitness/">Zumba Fitness Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27251"><a href="https://www.fitnessworld.ca/classes/yoga-fitness/">Yoga Fitness Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27250"><a href="https://www.fitnessworld.ca/classes/strength-training/">Strength Training Fitness Class</a></li>
+             </ul></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-828"><a href="https://www.fitnessworld.ca/the-worx/">THE WORX</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://www.fitnessworld.ca/personal-training/">Personal Training</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a href="https://www.fitnessworld.ca/online-fitness/">Online Fitness</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="https://www.fitnessworld.ca/recovery/">Recovery</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-825"><a href="https://www.fitnessworld.ca/nutrition/">Nutrition</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27901"><a href="https://www.fitnessworld.ca/rewards/">Rewards</a></li>
+           </ul>
+          </div>
+         </div>
+         <div class="col additional-menu">
+          <h6 class="col-title">Additional Resources</h6>
+          <div class="menu-additional-resources-container">
+           <ul id="menu-additional-resources" class="menu">
+            <li id="menu-item-841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-841"><a href="https://www.fitnessworld.ca/blog/">Blog</a></li>
+            <li id="menu-item-832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-832"><a href="https://www.fitnessworld.ca/commitment-to-clean/">Commitment to Clean</a></li>
+            <li id="menu-item-835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-835"><a href="https://www.fitnessworld.ca/faqs/">FAQs</a></li>
+            <li id="menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-836"><a href="https://www.fitnessworld.ca/press/">Press</a></li>
+            <li id="menu-item-833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-833"><a href="https://www.fitnessworld.ca/careers/">Careers</a></li>
+            <li id="menu-item-834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-834"><a href="https://www.fitnessworld.ca/contact/">Contact</a></li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="footer__menu-container show--tablet-portrait">
+        <div class="menu-header-menu-container">
+         <ul id="menu-header-menu-1" class="header-nav mobile-nav">
+          <li class="star menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-21"><a href="#">Memberships</a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23743"><a href="https://www.fitnessworld.ca/join/">Join Now</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-192 current_page_item menu-item-23741"><a href="https://www.fitnessworld.ca/explore-memberships/" aria-current="page">Explore Memberships</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23740"><a href="https://www.fitnessworld.ca/corporate-memberships/">Corporate Memberships</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23742"><a href="https://www.fitnessworld.ca/free-pass/">Free Pass</a></li>
+           </ul></li>
+          <li class="marker menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25"><a href="#">Locations</a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23744"><a href="https://www.fitnessworld.ca/locations/">Club Finder</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26114"><a href="https://www.fitnessworld.ca/locations/cambie/">Cambie (12th &amp; Cambie)</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26115"><a href="https://www.fitnessworld.ca/locations/downtown/">Downtown (Howe &amp; Davie)</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26116"><a href="https://www.fitnessworld.ca/locations/georgia/">Georgia &amp; Bute</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26117"><a href="https://www.fitnessworld.ca/locations/kingsway/">Kingsway</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26118"><a href="https://www.fitnessworld.ca/locations/kitsilano/">Kitsilano</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26119"><a href="https://www.fitnessworld.ca/locations/langley/">Langley</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26120"><a href="https://www.fitnessworld.ca/locations/lonsdale/">Lonsdale</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26121"><a href="https://www.fitnessworld.ca/locations/lougheed/">Lougheed</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26122"><a href="https://www.fitnessworld.ca/locations/marine-gateway/">Marine Gateway (Cambie &amp; Marine)</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26123"><a href="https://www.fitnessworld.ca/locations/nanaimo/">Nanaimo</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26124"><a href="https://www.fitnessworld.ca/locations/richmond/">Richmond Oval Village</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26125"><a href="https://www.fitnessworld.ca/locations/semiahmoo/">Semiahmoo</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26126"><a href="https://www.fitnessworld.ca/locations/south-surrey/">South Surrey Signature</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26127"><a href="https://www.fitnessworld.ca/locations/surrey/">Surrey (Whalley)</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26128"><a href="https://www.fitnessworld.ca/locations/suter-brook/">Suter Brook</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26129"><a href="https://www.fitnessworld.ca/locations/victoria/">Victoria</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-locations menu-item-26495"><a href="https://www.fitnessworld.ca/locations/train-by-fw/">Train By FW</a></li>
+           </ul></li>
+          <li class="fitnessworld menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28"><a href="#">Experience FW</a>
+           <ul class="sub-menu">
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23745"><a href="https://www.fitnessworld.ca/classes/">Fitness Classes</a>
+             <ul class="sub-menu">
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27260"><a href="https://www.fitnessworld.ca/classes/">All Fitness Classes</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27252"><a href="https://www.fitnessworld.ca/classes/bollyx-classes/">BollyX Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27253"><a href="https://www.fitnessworld.ca/classes/barre-class/">Barre Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27254"><a href="https://www.fitnessworld.ca/classes/cardio-training/">Cardio Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27255"><a href="https://www.fitnessworld.ca/classes/kickboxing/">Kickboxing Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27256"><a href="https://www.fitnessworld.ca/classes/cycling-studio/">Cycling Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27257"><a href="https://www.fitnessworld.ca/classes/pilates-fitness/">Pilates Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27124"><a href="https://www.fitnessworld.ca/classes/zumba-fitness/">Zumba Fitness Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27259"><a href="https://www.fitnessworld.ca/classes/yoga-fitness/">Yoga Fitness Class</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27258"><a href="https://www.fitnessworld.ca/classes/strength-training/">Strength Training Fitness Class</a></li>
+             </ul></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23751"><a href="https://www.fitnessworld.ca/the-worx/">THE WORX</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23749"><a href="https://www.fitnessworld.ca/personal-training/">Personal Training</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23748"><a href="https://www.fitnessworld.ca/online-fitness/">Online Fitness</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23750"><a href="https://www.fitnessworld.ca/recovery/">Recovery</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23747"><a href="https://www.fitnessworld.ca/nutrition/">Nutrition</a></li>
+            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27900"><a href="https://www.fitnessworld.ca/rewards/">Rewards</a></li>
+           </ul></li>
+         </ul>
+        </div>
+        <div class="menu-additional-resources-mobile-container">
+         <ul id="menu-additional-resources-mobile" class="header-nav mobile-nav">
+          <li id="menu-item-23976" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23976"><a href="#">Additional Resources</a>
+           <ul class="sub-menu">
+            <li id="menu-item-23970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23970"><a href="https://www.fitnessworld.ca/blog/">Blog</a></li>
+            <li id="menu-item-23973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23973"><a href="https://www.fitnessworld.ca/commitment-to-clean/">Commitment to clean</a></li>
+            <li id="menu-item-23972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23972"><a href="https://www.fitnessworld.ca/faqs/">FAQs</a></li>
+            <li id="menu-item-23971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23971"><a href="https://www.fitnessworld.ca/press/">Press</a></li>
+            <li id="menu-item-23974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23974"><a href="https://www.fitnessworld.ca/careers/">Careers</a></li>
+            <li id="menu-item-23975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23975"><a href="https://www.fitnessworld.ca/contact/">Contact</a></li>
+           </ul></li>
+         </ul>
+        </div>
+       </div>
+       <div class="footer__links">
+        <h6 class="col-title">Let's connect</h6>
+        <div class="social-container">
+         <a href="https://www.facebook.com/fitnessworldcanada/" class="social-item" target="_blank" rel="noopener noreferrer"><i class="icon-facebook"></i></a> <a href="https://www.instagram.com/fitnessworldcanada/" class="social-item" target="_blank" rel="noopener noreferrer"><i class="icon-instagram"></i></a>
+        </div>
+        <h6>Download the app</h6>
+        <div class="flex">
+         <a class="ios-download" href="https://apps.apple.com/ca/app/steve-nash-fitness-clubs/id1101915334"><img alt="Download on the App Store" src="https://www.fitnessworld.ca/wp-content/themes/fitnessworld/assets/images/ios-badge.svg"></a> <a class="google-download" href="https://play.google.com/store/apps/details?id=com.netpulse.mobile.stevenashfitnessworldsportsclub&amp;hl=en_CA?pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank"><img alt="Get it on Google Play" src="https://www.fitnessworld.ca/wp-content/themes/fitnessworld/assets/images/google-play-badge.svg"></a>
+        </div>
+       </div>
+      </div>
+      <div class="socket">
+       <div class="size-inner flex">
+        <p>Copyright © 2023 Fitness World Canada. All rights reserved.</p>
+        <p><a href="/privacy-policy">Privacy Policy</a></p>
+       </div>
+      </div>
+     </div>
+    </div>
+   </footer>
+  </main>
+  <div class="popup popup--error">
+   <div class="popup-background-overlay"></div>
+   <div class="popup-wrapper">
+    <div class="popup-container">
+     <div class="content-container">
+      <div class="icon">
+       <img src="https://www.fitnessworld.ca/wp-content/themes/fitnessworld/assets/images/error.svg" alt="">
+      </div>
+      <h4 class="title">Whoops!</h4>
+      <p class="description">Please enter a valid email address.</p>
+      <div class="button-container">
+       <button class="button close-popup">Got it</button>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script type="text/javascript" src="https://www.fitnessworld.ca/wp-content/themes/fitnessworld/assets/js/libraries.js?ver=1.0' defer" id="libraries-js"></script>
+  <script type="text/javascript" src="https://www.fitnessworld.ca/wp-content/themes/fitnessworld/assets/js/anim.js?ver=1.0' defer" id="anim-js"></script>
+  <script type="text/javascript" src="https://www.fitnessworld.ca/wp-content/themes/fitnessworld/src/js/main.js?ver=2.01' defer" id="main-script-js"></script>
+  <script type="text/javascript" id="custom-script-js-extra">
+/* <![CDATA[ */
+var blog = {"ajaxurl":"https:\/\/www.fitnessworld.ca\/wp-admin\/admin-ajax.php","security":"fe954f59c3"};
+/* ]]> */
+</script>
+  <script type="text/javascript" src="https://www.fitnessworld.ca/wp-content/themes/fitnessworld/src/js/custom.js?ver=1.2' defer" id="custom-script-js"></script>
+ </body>
+</html>

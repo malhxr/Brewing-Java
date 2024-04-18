@@ -1,0 +1,8 @@
+Fit4Less Gym Membership Details:
+
+Membership Name: Black Card
+Membership Price: $13.99
+-----
+Membership Name: 4Less Card
+Membership Price: $7.99
+-----

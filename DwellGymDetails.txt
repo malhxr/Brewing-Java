@@ -1,0 +1,28 @@
+Dwell Gym Membership Details:
+Gym website: https://dwellgym.ca/membership/
+
+Membership Time: 1 month
+Membership Price: $64
+Purchase Link: https://clients.mindbodyonline.com/classic/ws?studioid=150529
+-----
+Membership Time: 1 month
+Membership Price: $55
+Additional Content: for First Responders & Groups of 2 or more
+Purchase Link: https://clients.mindbodyonline.com/classic/ws?studioid=150529
+-----
+Membership Time: 3 months
+Membership Price: $180
+Additional Content: prepaid
+Purchase Link: https://clients.mindbodyonline.com/classic/ws?studioid=150529
+-----
+Membership Time: 6 months
+Membership Price: $330
+Additional Content: prepaid
+Purchase Link: https://clients.mindbodyonline.com/classic/ws?studioid=150529
+-----
+Membership Time: 13 months
+Membership Price: $660
+Additional Content: prepaid
+Purchase Link: https://clients.mindbodyonline.com/classic/ws?studioid=150529
+-----
+
